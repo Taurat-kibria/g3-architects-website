@@ -1,0 +1,68 @@
+/* adding fonts */
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.work-sans-fonts {
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+header{
+    width: 1920px;
+    margin: 0 auto;
+}
+
+/* flexing items */
+
+.flex_items{
+    display: flex;
+}
+
+/* color configuration */
+
+
+.dark_1{
+    color: #131313;
+}
+
+.dark_2{
+    color: #424242;
+}
+
+.dark_3{
+    color: #727272;
+}
+
+
+/* back ground color */
+
+
+.bg_1{
+    background-color: rgba(255, 144, 14, 0.1);
+}
+
+
+/* navbar design */
+
+li{
+    list-style: none;
+}
+
+
+.nav_link{
+    list-style: none;
+    text-decoration: none;
+    margin-right: 20px;
+    
+}
+.nav_container{
+    width: 100%;
+    justify-content: space-between;
+   
+}
+
+
